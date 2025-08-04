@@ -23,9 +23,21 @@ Objective:  Learn to create databases, tables, and define relationships.
 | Tools               | MySQL Workbench  |
 | Language            | MySQL            |
 
-
 # Day - 1 Task
  1.Choose a domain (e.g., Library, E-commerce)
+     Domain: E-Commerce (Yummiee Pizza)
+     
  2.Identify entities and relationships
+  Table Relationship:
+   pizzas ↔ pizza_types
+Relationship: Many-to-One
+
+Foreign Key: pizzas.pizza_type_id → pizza_types.pizza_type_id
+
+Explanation:
+Each pizza (e.g., a medium Margherita) has a specific type (e.g., "Margherita").
+Multiple pizzas (of different sizes or prices) can share the same pizza type.
+
+
  3.Create tables using CREATE TABLE
  4.Define primary and foreign keys
