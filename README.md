@@ -17,11 +17,11 @@ Yummiee_Pizza continues to scale its operations while exploring new revenue stre
 Objective:  Learn to create databases, tables, and define relationships.
  Tools:MySQL Workbench / pgAdmin / SQLiteStudio.
  Deliverables:  SQL script to create schema and ER diagram
-__________________________________________
+ 
 | # Tools       | MySQL Workbench        |
 |----------------------------------------|
 | # Language    | MySQL                  |
-|----------------------------------------|
+|               |                        |
 
 
 # Day - 1 Task
