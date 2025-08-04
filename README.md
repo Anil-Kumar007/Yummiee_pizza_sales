@@ -44,4 +44,4 @@ Objective:  Learn to create databases, tables, and define relationships.
 Task Goal Understand how to build a simple database system and upload it to GitHub.
 Internship Task 1 completed.
 
-![Uploading Entity Relationship Diagram.jpg…]()
+![Uploading Entity Relationship Diagram.jpg]()
