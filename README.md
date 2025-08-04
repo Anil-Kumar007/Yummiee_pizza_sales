@@ -1,6 +1,4 @@
-# Yummiee Pizza Pvt Ltd
-
-# Company Overview:
+# Yummiee Pizza Company Overview:
 Yummiee_Pizza Pvt. Ltd. is a fast-growing food service company specializing in handcrafted, high-quality pizzas made with fresh ingredients and bold flavors. Yummiee_Pizza has focused on delivering exceptional taste, convenience, and value to pizza lovers across the region. With a commitment to innovation, hygiene, and customer satisfaction, the company has quickly earned a loyal customer base and strong market presence.
 
 # Sales Description:
