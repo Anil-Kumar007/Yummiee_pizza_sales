@@ -12,3 +12,20 @@ Key highlights of Yummiee_Pizza sales performance include:
   4. Franchise Expansion Impact: New franchise outlets in high-footfall areas have positively influenced regional sales growth.
 
 Yummiee_Pizza continues to scale its operations while exploring new revenue streams such as catering, B2B partnerships, and subscription models. The company’s focus remains on delivering delicious experiences that customers crave — anytime, anywhere.
+
+
+Objective:  Learn to create databases, tables, and define relationships.
+ Tools:MySQL Workbench / pgAdmin / SQLiteStudio.
+ Deliverables:  SQL script to create schema and ER diagram
+__________________________________________
+| # Tools       | MySQL Workbench        |
+|----------------------------------------|
+| # Language    | MySQL                  |
+|----------------------------------------|
+
+
+# Day - 1 Task
+ 1.Choose a domain (e.g., Library, E-commerce)
+ 2.Identify entities and relationships
+ 3.Create tables using CREATE TABLE
+ 4.Define primary and foreign keys
