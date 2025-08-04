@@ -18,10 +18,10 @@ Objective:  Learn to create databases, tables, and define relationships.
  Tools:MySQL Workbench / pgAdmin / SQLiteStudio.
  Deliverables:  SQL script to create schema and ER diagram
  
-| # Tools       | MySQL Workbench        |
-|----------------------------------------|
-| # Language    | MySQL                  |
-|               |                        |
+| Tools and Laguage   | Desciption       |
+| ------------------- | -----------------|
+| Tools               | MySQL Workbench  |
+| Language            | MySQL            |
 
 
 # Day - 1 Task
